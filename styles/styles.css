@@ -13,8 +13,7 @@
 }
 
 .bottomImages{
-    height: 371px;
-
+    height: 425px;
 }
 
 .b{
@@ -23,7 +22,7 @@
     margin: 0 auto;
 }
 
-.col-3{
+.col{
     padding-left: 0px;
     padding-right: 0px;
 }
