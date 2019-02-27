@@ -26,3 +26,14 @@
     padding-left: 0px;
     padding-right: 0px;
 }
+
+.bullet-center{
+    list-style-position: inside;
+}
+
+.feedingList{
+    font-size: 25px;
+    padding-top: 10px;
+    
+
+}
